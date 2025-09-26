@@ -1,3 +1,3 @@
 # Landmarks
 
-This project i took form the apple developer documentation master swiftUI basics
+This project i took form the apple developer documentation to master swiftUI basics
