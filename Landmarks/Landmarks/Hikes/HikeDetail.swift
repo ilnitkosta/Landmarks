@@ -1,10 +1,3 @@
-/*
-See the LICENSE.txt file for this sample’s licensing information.
-
-Abstract:
-A view showing the details for a hike.
-*/
-
 import SwiftUI
 
 struct HikeDetail: View {
